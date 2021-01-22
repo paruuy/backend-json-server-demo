@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Iphone 12 pro",
+      "price": 1000
+    },
+    {
+      "id": 2,
+      "name": "Epson Printer",
+      "price": 50.99
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20",
+      "price": 690
+    },
+    {
+      "id": 4,
+      "name": "Headphone Sony",
+      "price": 237
+    }
+  ]
+}
